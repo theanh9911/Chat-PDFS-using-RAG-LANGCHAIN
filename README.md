@@ -43,7 +43,7 @@ rag_langchain/
 ```
 ## 📡 API Endpoint
 ```bash
-POST http://localhost:8080/generative_ai
+POST http://localhost:8080/generative_ai/playground/
 
 {
   "question": "LangChain hoạt động như thế nào?"
