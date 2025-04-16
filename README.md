@@ -50,3 +50,9 @@ POST http://localhost:8080/generative_ai
 }
 ```
 ## ⚙️ Mặc định đang dùng mô hình nhẹ flan-t5-small. Có thể thay đổi trong llm_model.py.
+
+
+###### Demo
+![image](https://github.com/user-attachments/assets/0bbbd251-18ad-4306-85e1-306d40364562) ![image](https://github.com/user-attachments/assets/52ee9855-e9be-41c5-b452-151e276b7916)
+
+
