@@ -9,7 +9,7 @@ Hệ thống Retrieval-Augmented Generation (RAG) dùng mô hình ngôn ngữ Hu
 ### 1. Clone repo và cài môi trường
 
 ```bash
-git clone https://github.com/tenban/rag_langchain.git
+git clone https://github.com/theanh9911/PDF-Question-Answering-with-LangChain-and-RAG
 cd rag_langchain
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
